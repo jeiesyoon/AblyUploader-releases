@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/jeiesyoon/AblyUploader-releases/releases/download/v1.0.0/AblyUploader.zip",
-  "release_notes": "최초 배포",
+  "version": "1.1.0",
+  "download_url": "https://github.com/jeiesyoon/AblyUploader-releases/releases/download/v1.1.0/AblyUploader.zip",
+  "release_notes": "다중 양식 지원(플레이오토/이셀러스/오너클랜/자체양식), 상품속성·정보고시·할인율 등 등록 필드 확장, 앱 아이콘 적용, 중복 실행 방지, 업로드 사용량 기록",
   "required": false
 }
